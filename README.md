@@ -1,1 +1,0 @@
-# SK_project_1_Multi-kernel_GP
